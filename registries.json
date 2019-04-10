@@ -1,0 +1,10 @@
+[
+  {
+    "pattern": "^/@babel/.*$",
+    "registry": "http://registry.yarnpkg.com"
+  },
+  {
+    "pattern": "/",
+    "registry": "https://registry.npmjs.org"
+  }
+]
